@@ -1,0 +1,39 @@
+.home_body
+{
+    padding: 10px;
+}
+
+.button-corner {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+  }
+
+.white_board
+{
+    height: 80vh;
+    overflow-y: auto;
+    background-color: red;
+    padding-right: 10px;
+    border: 10px solid white;
+}
+
+.call_board
+{
+    height: 80vh;
+    overflow-y: auto;
+    background-color:blue;
+    padding:10px;
+    border: 10px solid white;
+    position: relative;
+    align-items: center;
+}
+
+.chat_board
+{
+    height: 80vh;
+    overflow-y: auto;
+    background-color: blueviolet;
+    padding:10px;
+    border: 10px solid white;
+}
